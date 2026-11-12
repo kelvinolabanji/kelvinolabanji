@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Kelvin👋
 
-<!--
-**kelvinolabanji/kelvinolabanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Computing student at the University of Namibia. I build software and work with data. Finishing my degree next year.
 
-Here are some ideas to get you started:
+## Open source
+- **MetaBrainz Picard**: merged my first PR → [https://github.com/metabrainz/picard/pull/3571]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Echo](https://github.com/kelvinolabanji/echo)**: offline, local-first semantic image search for Windows
+- **[SponsorSkip](https://github.com/kelvinolabanji/sponsorskip)**: Chrome extension that detects and skips YouTube sponsor segments
+
+## Tech
+Python · FastAPI · TypeScript · React · C# · SQL · scikit-learn 
+
+## Contact
+[kelvinolabanji@gmail.com](mailto:kelvinolabanji@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kelvinolabanji/)
