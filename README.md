@@ -1,12 +1,6 @@
-
 <div align="center">
-
-<img
-  src="./header.svg"
-  width="720"
-  height="245"
-  alt="Kelvin Olabanji"
-/>
+  <img src="./header.svg" width="900" height="306" alt="Kelvin Olabanji" />
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvinolabanji/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kelvinolabanji@gmail.com)
