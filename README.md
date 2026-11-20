@@ -12,7 +12,7 @@
 
 Computing undergraduate at the University of Namibia with an interest in software engineering, AI and open source.
 
-Currently contributing to [MusicBrainz Picard](https://github.com/metabrainz/picard).
+Currently contributing to [MetaBrainz Picard](https://github.com/metabrainz/picard).
 
 ## Tech Stack
 
